@@ -1,0 +1,17 @@
+@media only screen and (max-width: 768px) {
+    header .carousel-caption h1{
+        font-size: 2.5rem ;
+        line-height: 1;}  
+    .scrollicon{visibility: hidden;}
+    .info h3{
+        font-size: 1.5rem;}
+    .contactbtn{
+        padding:10px 20px}
+    .contact-title{
+        font-size: 1.5rem}
+        .socialicons{
+            text-align: center;}
+        .pull-right{
+        text-align: center;
+        }
+}
