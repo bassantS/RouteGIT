@@ -1,6 +1,6 @@
 :root{
     --font:"Open Sans", sans-serif;
-    --maincolor:#f25454;}
+    --maincolor:rgb(146, 63, 63) ;}
 body{
     font-family: var(--font);}
 .brand{
